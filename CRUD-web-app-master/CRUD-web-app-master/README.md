@@ -176,7 +176,7 @@ https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_S
 
 **Khái niêm:** Đây là cơ chế chính sách bảo vệ không hẳn là lỗi bảo mật. Dựa vào lỗ hổng không bị giới hạn số lần nhập sai kẻ tấn công có thể sử dụng kỹ thuật burp force (quét cạn) để dò được mật khẩu nạn nhân. Ví dụ dưới đây là lỗ hổng không có cơ chế khóa khi tài khoản nhập sai quá nhiều lần.
 
-![image](https://user-images.githubusercontent.com/75435676/193869931-926707bb-73ea-4205-89dc-0b798ce654bc.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/75435676/193869956-bbff5ca8-c7a1-4390-9cd0-b32aa9808b9c.png)
